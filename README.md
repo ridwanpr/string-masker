@@ -14,7 +14,7 @@ A php library for masking sensitive data (e.g., credit card numbers, emails, etc
 You can install this package via Composer. Run the following command in your terminal:
 
 ```bash
-composer require ridwan/string-masker
+composer require ridwanpr/string-masker
 ```
 
 ## Usage
