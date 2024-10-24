@@ -1,5 +1,5 @@
 {
-    "name": "ridwan/string-masker",
+    "name": "ridwanpr/string-masker",
     "description": "A php library for masking sensitive data (e.g., credit card numbers, emails, etc.) based on specific patterns.",
     "type": "library",
     "license": "MIT",
