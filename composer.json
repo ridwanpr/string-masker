@@ -1,6 +1,7 @@
 {
     "name": "ridwanpr/string-masker",
     "description": "A php library for masking sensitive data (e.g., credit card numbers, emails, etc.) based on specific patterns.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
