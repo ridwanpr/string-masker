@@ -1,0 +1,11 @@
+{
+    "name": "ridwan/string-masker",
+    "description": "A flexible library for masking sensitive data based on custom patterns.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ridwan\\StringMasker\\": "src/"
+        }
+    },
+    "require-dev": {}
+}
